@@ -1,0 +1,5 @@
+{
+  "name": "student prediction",
+  "description": "A comprehensive student performance analytics dashboard featuring data visualization, interactive data grids, predictive modeling, and AI-powered insights using Google Gemini.",
+  "requestFramePermissions": []
+}
